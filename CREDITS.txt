@@ -1,0 +1,4 @@
+dressup v3 (cute / ZEPETO-like style prototype)
+- Character: fully procedural (code-generated geometry + canvas-painted face). No third-party models, textures or scanned humans.
+- three.js r169 — MIT License (c) 2010-2024 three.js authors. Bundled in app.js.
+- Source: /workspace/dressup-src/src3/ (based on v1 source; contest.js / quotes.js copied from v2, not yet wired in).
